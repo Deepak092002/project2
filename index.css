@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+p {
+  background-color: gray;
+}
+
+span {
+  color: black;
+}
+
+.nav-list {
+  list-style: none;
+  text-align: center;
+  line-height: 3rem;
+}
+
+.navbar-default {
+  background-color: gray;
+  border: 0;
+  border-radius: 0;
+}
+
+.navbar-default button.navbar-toggle,
+.navbar-default .icon-bar {
+  border: 1px solid black;
+}
+
+.icon-bar {
+  color: black;
+}
